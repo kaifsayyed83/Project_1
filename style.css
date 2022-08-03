@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Mouse+Memoirs&display=swap');
+body{
+    background-color: darkcyan;
+}
+h1 {
+    text-align: center;
+    font-size: 90px;
+    color: blanchedalmond;
+    font-family: Mouse Memoirs;
+}
+img {
+     width:250px; 
+     height:250px;
+     margin: 30px auto;
+     display: block;
+}
+.banner{
+     background-color: darkgrey;
+     padding-bottom: 10px;
+}
+p { text-align: center;
+    color: fuchsia;
+    font-size:100px;
+    font-weight: 200;
+}
